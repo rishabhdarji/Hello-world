@@ -1,2 +1,1 @@
-# Hello-world
-Demo Repository
+Just a demo repository
